@@ -26,7 +26,7 @@
 
 #### Git
 
-1. Open Xcode
+1. Open VSCode
 2. Clone an existing project
 3. ```[https://github.com/umutbrkee/VideoGamesList.git](https://github.com/umutbrkee/Barkod-Data.git)``` search or enter
 4. Congratulations! 
