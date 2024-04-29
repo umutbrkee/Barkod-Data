@@ -12,6 +12,7 @@
 ## Features 🔥
 
 - Firebase
+- Expo Go
 - React Native Camera
 - React Native Barcode Scanner
 - React Native Location
