@@ -1,7 +1,7 @@
-[![Swift Version][swift-image]][swift-url]
+[![ReactNative-image]][swift-url]
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/EZSwiftExtensions.svg)](https://img.shields.io/cocoapods/v/LFAlertController.svg)  
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
+[![Platform](https://img.shields.io/badge/Platform-Cross-blue)](http://cocoapods.org/pods/LFAlertController)
 
 # Barkod-Data
 <p align="center">
@@ -40,13 +40,7 @@ You can contribute to the Project
 
 
 
-## Summary Video
-
-
-https://github.com/umutbrkee/VideoGamesList/assets/45608427/11a00e76-71dd-4aab-b7cf-4625c9fab877
-
-
-[swift-image]:[https://img.shields.io/badge/React-Native-17.0-orange.svg](https://img.shields.io/badge/ReactNative-0.74-orange.svg)
+[ReactNative-image]:https://img.shields.io/badge/ReactNative-0.74-orange.svg
 [swift-url]: https://reactnative.dev/
 [license-image]: https://img.shields.io/badge/License-MIT-blue.svg
 [license-url]: LICENSE
